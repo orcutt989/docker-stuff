@@ -1,13 +1,13 @@
 # docker-stuff
 
-## Windows
+## Windows (Any-Version)
 
 Add git to path for version control of Dockerfiles, etc
 ```batch
 setx /m path "%path%;%localappdata%\Programs\Git\cmd"
 ```
 
-## Windows 7
+## Windows 7, 8, 8.1
 
 Install Docker Toolbox
 
